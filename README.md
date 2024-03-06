@@ -1,11 +1,4 @@
-欢迎访问github pages:
-
-dim0x.github.io
-
-dim0x.github.io/chirpy/
-
-dim0x.github.io/dl8z/
-
+目前啥也不会的普通Github用户！
 
 <!---
 DIM0x/DIM0x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
